@@ -1,1 +1,4 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+# Twitter for scientists (t4scientists)
+
+This is the first version of a book for scientists on how to use Twitter.
+
