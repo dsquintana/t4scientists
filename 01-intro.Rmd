@@ -40,7 +40,7 @@ This is another good opportunity for people to learn about you. As an academic, 
 
 ### Location
 
-It's up to you for how specific you want to be when it comes to your location. Adding your city could be helpful, as people may want to contact and meet you in person if they're travelling through your town. In theory, you don't have to put a single physical location in this field, with some people using this space to include two cities if they regularly commute between them or they want to include their hometown.
+It's up to you for how specific you want to be when it comes to specifying your location. Adding your city could be helpful, as people may want to contact and meet you in person if they're travelling through your town. In theory, you don't have to put a single physical location in this field, with some people using this space to include two cities if they regularly commute between them or they want to include their hometown.
 
 ## The anatomy of a tweet
 
@@ -58,7 +58,7 @@ You can get pretty creative with emoji in your tweets.
 ### Using text in your tweets
 Twitter was originally conceived as a SMS-based service, in which you could send text-only tweets via SMS.^[Believe it or not, this SMS tweet-feature [still exists](https://help.twitter.com/en/using-twitter/twitter-sms).] The majority of tweets are text only, so this is Twitter's bread and butter. 
 
-Your text you can also include website URLs. Regardless of the size of the URL, Twitter will treat each URL as 23 characters. You can also mention other Twitter users, by writing the '@' symbol, followed by their twitter username, like this: \@dsquintana. When you mention other people in your tweets, they will be notified. 
+Your text can also include website URLs. Regardless of the size of the URL, Twitter will treat each URL as 23 characters. You can also mention other Twitter users, by writing the '@' symbol, followed by their twitter username, like this: \@dsquintana. When you mention other people in your tweets, they will be notified. 
 
 ### The types of images and videos you can include with your tweets
 
@@ -80,7 +80,7 @@ When you see other tweets in your main feed, you can primarily interact with the
 
 ### Liking tweets
 
-You can 'like' a tweet by clicking on the little heart. This acknowledges both the to tweet author and to other people that you liked the tweet (e.g. someone tweeted good news, and interesting article, or shared a funny meme). Liking can also be used as a token of support. For instance, if someone shares bad news, liking the tweet doesn't mean that you like the news. Rather, liking the tweet is a show of support for the person who sent the tweet.
+You can 'like' a tweet by clicking on the little heart. This acknowledges both to the tweet author and to other people that you liked the tweet (e.g. someone tweeted good news, an interesting article, or shared a funny meme). Liking can also be used as a token of support. For instance, if someone shares bad news, liking the tweet doesn't mean that you like the news. Rather, liking the tweet is a show of support for the person who sent the tweet.
 
 Just keep in mind that when you like a tweet, this *might* appear in the feed of people that follow you. You might also see tweets that people you follow have liked in your feed too. Liking is also a useful way of acknowledging that you've read a tweet that mentioned you. 
 
@@ -116,13 +116,13 @@ Just be a little wary when sending direct messages, as people have sometimes mis
 
 ## Your Twitter style
 
-### How personal should you tweets be?
+### How ersonal should you tweets be?
 
-This is up to you, so share whatever you're comfortable with. Some people like to keep their personal and academic lives separate, and others like to mix things up. One benefit of sharing some personal tweets is that it gives your Twitter account a little more personality, but don't feel that you *have* to do this.
+This is up to you, so share whatever you're comfortable with. Some perople like to keep their personal and academic lives separate, and others like to mix things up. One benefit of sharing some personal tweets is that it gives your Twitter account a little more personality, but don't feel that you *have* to do this.
 
 ### Finding your twitter "voice"
 
-Be yourself. Trying to be someone you're not on Twitter is not unsustainable in the long run. Another aspect to consider is how "professional" you want your Twitter account to be. Some people think that you shouldn't tweet anything you wouldn't say in front of a live audience of your peers. I understand this sentiment, and realize that different fields have different conventions. But at the same time, you also need to think about the *context* of Twitter, which is typically more casual than doing an academic talk. Just keep in mind that anyone can search through your tweets, if they want. Finally, some institutions have a social media policy, so it's best to check if your institution has one before you start tweeting.
+Be yourself. Trying to be someone you're not on Twitter is not unsustainable in the long run. Another aspect to consider is how "professional" yowant your Twitter account to be. Some people think that you shouldn't tweet anything you wouldn't say in front of a live audience of your peers. I understand this sentiment, and realize that different fields have different conventions. But at the same time, you also need to think about the *context* of Twitter, which is typically more casual than doing an academic talk. Just keep in mind that anyone can search through your tweets, if they want. Finally, some institutions have a social media policy, so it's best to check if your institution has one before you start tweeting.
 
 ### Using a pseudonym
 

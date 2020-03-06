@@ -1,0 +1,3 @@
+# Acknowledgements
+
+Thanks to [\@_DaniBeck](https://twitter.com/_DaniBeck), [\@PsychBrief](https://twitter.com/PsychBrief), and [\@BrianPulling](https://twitter.com/BrianPulling) who provided feedback on an draft version of this book. 

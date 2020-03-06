@@ -14,7 +14,7 @@ Let's start with the first tweet. This is the introduction, which includes a lin
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Very happy to announce that our new paper on oxytocin pathway gene networks in the human brain has just been published in <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a> <a href="https://t.co/15NNImcQjN">https://t.co/15NNImcQjN</a><br><br>Here’s the story behind this study, how we did it, and what we found... <br><br>[THREAD] <a href="https://t.co/sh7bTgg17l">pic.twitter.com/sh7bTgg17l</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814606441648128?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Tweet the next gives a little context as to why I did the study. This striking image is prominent and a link is included if people want to read more. 
+The next tweet gives a little context as to why I did the study. This striking image is prominent and a link is included if people want to read more. 
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Oxytocin-like signaling is an ancient system that goes as far back down the tree as earthworms &amp; sea squirts <a href="https://t.co/I82IJboVXC">https://t.co/I82IJboVXC</a> Oxytocin production occurs similarly across mammals but the *location* of oxytocin receptors in the brain can vary, even in closely related species <a href="https://t.co/08ePQwht0W">pic.twitter.com/08ePQwht0W</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814618357673984?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -48,13 +48,13 @@ It's almost impossible to predict which tweets will go viral, so don't spend tim
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rabbits love getting stroked on their nose <a href="https://t.co/aYOZGAY6kP">pic.twitter.com/aYOZGAY6kP</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1163083819605475328?ref_src=twsrc%5Etfw">August 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-While viral tweets have the upside of getting you a few more followers, Twitter will be essentially unusable for your during this period, as your notifications will be flooded. It's typically tweets that cover general topics that go viral, so you probably won't gain many new followers who are actually interested in your science---but if you're lucky you might get a few. I have found that the further your tweet travels outside of your network, the more *unusual* the responses. You many also get a few nasty tweets as well, which I cover in the [next chapter](#care).
+While viral tweets have the upside of getting you a few more followers, Twitter will be essentially unusable for you during this period, as your notifications will be __flooded__. It's typically tweets that cover general topics that go viral, so you probably won't gain many new followers who are actually interested in your science---but if you're lucky you might get a few. I have found that the further your tweet travels outside of your network, the more *unusual* the responses. You may also get a few nasty tweets as well, which I cover in the [next chapter](#care).
 
 ## Making your own GIFs
 
-GIFs get a lot of attention. Instead of just posting a static image of paper, you can create a video scrolling through your paper. Of course, you could post this as a video, but people often expect audio when they come across a video. GIFs don't have audio and continually loop. There is a huge library of GIFs online and you can also [search for GIFs](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures) directly in Twitter when composing a tweet.
+GIFs get a lot of attention. For instance, instead of just posting a static image of your paper, you can create a GIF that scrolls through your paper. Of course, you could post this as a video, but people often expect audio when they come across a video. GIFs don't have audio and continually loop. There is a huge library of GIFs online and you can also [search for GIFs](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures) directly in Twitter when composing a tweet.
 
-If you would like to make GIFs on your desktop, I recommend the [GIF Brewery app](https://gfycat.com/gifbrewery) (Mac only), as this gives you lots of options for making GIFs. For your smartphone, I recommend [ImgPlay](https://imgplay.net/) (iOS and Android). The best part of this app is that you squeeze your GIFs down to the 5MB Twitter limit when exporting your GIF. You can't do this with GIF Brewery app, and you'll have to sometimes play around with the setting to get your GIF under the 5MB limit.
+If you would like to make GIFs on your desktop, I recommend the [GIF Brewery app](https://gfycat.com/gifbrewery) (Mac only), as this gives you lots of options for making GIFs. For your smartphone, I recommend [ImgPlay](https://imgplay.net/) (iOS and Android). The best part of this app is that you squeeze your GIFs down to the 5MB Twitter limit when exporting your GIF. You can't do this with GIF Brewery app, and you'll have to sometimes play around with the settings to get your GIF under the 5MB limit.
 
 ## Getting your tweet back in the feed again
 
@@ -82,8 +82,27 @@ You shouldn't get too hung up on these numbers, but you can use them as a guide 
 
 This [web app](https://tweetdeck.com/), which can also be downloaded as a [Mac app](https://itunes.apple.com/gb/app/tweetdeck-by-twitter/id485812721?mt=12), is Twitter on steroids. You can customise this app with different columns, which can contain your main feed, the feed of a specific user (including yourself), notifications, a specific search term, the tweets you've liked, and your messages. 
 
-```{r, fig.cap='Tweetdeck set up with four columns. Note that the fourth column is for keeping track of the #PhDChat hashtag', echo=FALSE, fig.align='left', out.width='80%'}
+```{r, fig.cap='Tweetdeck set up with four columns. Note that the fourth column is for keeping track of the PhDChat hashtag', echo=FALSE, fig.align='left', out.width='80%'}
 knitr::include_graphics('images/tweetdeck.png')
 ```
 
-Tweetdeck can be particularly useful if you have more than one twitter account (e.g., your lab account) of if you're following a specific hashtag or search term. But I should warn you, this app can be very addictive because it can show you multiple streams of new information.
+Tweetdeck can be particularly useful if you have more than one twitter account (e.g., your individual account and an account for your lab) of if you're following a specific hashtag or search term. But I should warn you, this app can be very addictive because it can show you multiple streams of new information.
+
+## Using twitter to highlight your work on other platforms
+
+Twitter's popularity is not going to last forever (remember MySpace?).It's hard to predict the next big social media platform, but it's either going to be predominantly driven by text, video, or audio. If it's text, then getting involved with Twitter now you'll get valuable experience. If you don't want to get involved on Twitter because it's a fad, you'll never get involved on *any* network---they're all fads in the long run. However, if the next big thing is audio or video, then you can use Twitter to highlight your posts on these types of networks.
+
+### Video
+[TikTok](https://www.tiktok.com/en/) is emerging as a wildly popular social media platform, in which you post short videos that are typically set to music. Right now this platform skews quite young, but don't forget that this is how Facebook began too. Despite the great oppotunities for science communication, very few scientists are on TikTok at the moment, but it's easy to post your TikTok videos to Twitter.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sorry... <a href="https://t.co/FKUwiTaW6c">pic.twitter.com/FKUwiTaW6c</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1228658933511966725?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Audio
+
+Podcasts have been steadily growing in popularity. While it's relatively straightforward to start your own podcast for very little money (see my [step-by-step guide](https://www.dsquintana.blog/podcast-guide/)), it can be hard for other people to find your podcast on the popular podcast directories. To combat this discovery problem, you can post previews of your podcasts and links to episodes on Twitter.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">103: Swiping right <a href="https://t.co/nZuemrVIWH">https://t.co/nZuemrVIWH</a><br><br>We discuss rejection in academia, propose a Tinder-like platform for manuscript submission, consider the potential for science communication on TikTok, and argue about whether twitter threads or blogs are better for sharing research <a href="https://t.co/nH9ZUMSNgB">pic.twitter.com/nH9ZUMSNgB</a></p>&mdash; Everything Hertz (@hertzpodcast) <a href="https://twitter.com/hertzpodcast/status/1234383454198018052?ref_src=twsrc%5Etfw">March 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Twitter doesn't automatically lend itself to sharing audio, but you can [create an audiogram and transribe the audio](https://www.dsquintana.blog/podcast-guide/) (as the above clip) for easier sharing.
+
+

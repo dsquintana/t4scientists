@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.4)  6 MAR 2020 15:31
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.4)  7 MAR 2020 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1127,11 +1127,11 @@ Missing character: There is no 👇 in font [lmroman10-regular]:mapping=tex-text
 Missing character: There is no 🏾 in font [lmroman10-regular]:mapping=tex-text!
 
 Package natbib Warning: Citation `dsquintana' on page 23 undefined on input lin
-e 500.
+e 504.
 
 
 Package natbib Warning: Citation `AcademicChatter' on page 23 undefined on inpu
-t line 500.
+t line 504.
 
 [23
 
@@ -1147,23 +1147,23 @@ Missing character: There is no ᴋ in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ❼ in font [lmroman10-regular]:mapping=tex-text!
 
 Package natbib Warning: Citation `_DaniBeck' on page 24 undefined on input line
- 502.
+ 506.
 
 
 Package natbib Warning: Citation `jenheemstra' on page 24 undefined on input li
-ne 513.
+ne 517.
 
 
 Package natbib Warning: Citation `dsquintana' on page 24 undefined on input lin
-e 519.
+e 523.
 
 
-LaTeX Warning: Reference `fig:tag' on page 24 undefined on input line 524.
+LaTeX Warning: Reference `fig:tag' on page 24 undefined on input line 528.
 
 File: images/tag.png Graphic file (type QTm)
 <use  "images/tag.png" >
 
-LaTeX Warning: Reference `fig:poll' on page 24 undefined on input line 540.
+LaTeX Warning: Reference `fig:poll' on page 24 undefined on input line 544.
 
 [24]
 File: images/poll.png Graphic file (type QTm)
@@ -1171,77 +1171,77 @@ File: images/poll.png Graphic file (type QTm)
 Chapter 4.
 
 Package natbib Warning: Citation `NatureComms' on page 27 undefined on input li
-ne 572.
+ne 581.
 
 
-Overfull \hbox (3.76001pt too wide) in paragraph at lines 572--573
+Overfull \hbox (3.76001pt too wide) in paragraph at lines 581--582
 \EU1/lmr/m/n/10 in the human brain has just been published in \EU1/lmr/bx/n/10 
 ? \EU1/lmr/m/n/10 https://t.co/15NNImcQjNHere’s
  []
 
 
 Package natbib Warning: Citation `dsquintana' on page 27 undefined on input lin
-e 574.
+e 583.
 
 [27
 
 ]
 
 Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
-e 580.
+e 589.
 
 
 Package natbib Warning: Citation `jarekrokicki' on page 28 undefined on input l
-ine 584.
+ine 593.
 
 
 Package natbib Warning: Citation `AllenInstitute' on page 28 undefined on input
- line 584.
+ line 593.
 
 
 Package natbib Warning: Citation `SFFNORMENT' on page 28 undefined on input lin
-e 584.
+e 593.
 
 
 Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
-e 586.
+e 595.
 
 
 Package natbib Warning: Citation `jarekrokicki' on page 28 undefined on input l
-ine 590.
+ine 599.
 
 
 Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
-e 592.
+e 601.
 
 
 Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
-e 598.
+e 607.
 
 
 Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
-e 604.
+e 613.
 
 [28]
 
 Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
-e 610.
+e 619.
 
 
 Package natbib Warning: Citation `jarekrokicki' on page 29 undefined on input l
-ine 614.
+ine 623.
 
 
 Package natbib Warning: Citation `larswestlye' on page 29 undefined on input li
-ne 614.
-
-
-Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
-e 616.
+ne 623.
 
 
 Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
 e 625.
+
+
+Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
+e 634.
 
 [29]
 File: images/analytics.png Graphic file (type QTm)
@@ -1251,7 +1251,7 @@ File: images/tweetdeck.png Graphic file (type QTm)
 ! Illegal parameter number in definition of \GetTitleStringResult.
 <to be read again> 
                    P
-l.673 ...or keeping track of the #PhDChat hashtag}
+l.682 ...or keeping track of the #PhDChat hashtag}
                                                   \label{fig:unnamed-chunk-6} 
 Here is how much of TeX's memory you used:
  24329 strings out of 493591
