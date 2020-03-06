@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.4)  5 MAR 2020 15:51
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.4)  6 MAR 2020 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -729,7 +729,8 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip59
 \thanksmargin=\skip60
 \droptitle=\skip61
-) (./twitter_book.aux)
+)
+No file twitter_book.aux.
 \openout1 = `twitter_book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
@@ -785,17 +786,124 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 91.
 LaTeX Info: Redefining \pageref on input line 91.
 LaTeX Info: Redefining \nameref on input line 91.
-(./twitter_book.out) (./twitter_book.out)
 \@outlinefile=\write3
 \openout3 = `twitter_book.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 [1
 
 
 ] [2
 
-] (./twitter_book.toc
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 2.
+]
+\tf@toc=\write4
+\openout4 = `twitter_book.toc'.
+
+[3] [4
+
+]
+
+Package natbib Warning: Citation `dsquintana' on page 5 undefined on input line
+ 104.
+
+[5] [6]
+Chapter 1.
+[7
+
+]
+File: images/profile.png Graphic file (type QTm)
+<use  "images/profile.png" > [8]
+Missing character: There is no 🇦 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🇺 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🧠 in font [lmroman10-regular]:mapping=tex-text!
+File: images/compose.jpg Graphic file (type QTm)
+<use  "images/compose.jpg" > [9]
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🧐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😏 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🤓 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😃 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😊 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😊 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🙂 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🤔 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😴 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 😐 in font [lmroman10-regular]:mapping=tex-text!
+
+Package natbib Warning: Citation `dsquintana' on page 10 undefined on input lin
+e 205.
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 210.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -803,198 +911,355 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmr' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 2.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 210.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 2.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 210
+.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 2.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 210
+.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 2.
+(Font)              <10> on input line 210.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 210.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 2.
-LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+(Font)              <5> on input line 210.
+LaTeX Font Info:    Try loading font information for U+msa on input line 210.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+LaTeX Font Info:    Try loading font information for U+msb on input line 210.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
-\tf@toc=\write4
-\openout4 = `twitter_book.toc'.
-
-[3] [4
-
-]
-File: images/cover.png Graphic file (type QTm)
-<use  "images/cover.png" > [5]
-File: images/display.png Graphic file (type QTm)
-<use  "images/display.png" > [6] [7] [8
-
-]
-Chapter 1.
-File: images/compose.jpg Graphic file (type QTm)
-<use  "images/compose.jpg" > [9]
-File: images/profile.png Graphic file (type QTm)
-<use  "images/profile.png" > [10] [11]
-
-Package natbib Warning: Citation `dsquintana' on page 12 undefined on input lin
-e 244.
-
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 210.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 210.
+[10]
 File: images/unsplash.png Graphic file (type QTm)
-<use  "images/unsplash.png" > [12] [13]
-
-Package natbib Warning: Citation `Neuro_Skeptic' on page 14 undefined on input 
-line 285.
-
+<use  "images/unsplash.png" > [11]
+File: images/retweet.png Graphic file (type QTm)
+<use  "images/retweet.png" > [12]
 Missing character: There is no ⤵ in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text!
 
-Underfull \hbox (badness 1237) in paragraph at lines 289--290
+Underfull \hbox (badness 1237) in paragraph at lines 258--259
 []\EU1/lmr/m/n/10 If you’re interested in science communication this episode is
  for you ⤵️
  []
 
 
-Package natbib Warning: Citation `dsquintana' on page 14 undefined on input lin
-e 291.
+Package natbib Warning: Citation `dsquintana' on page 13 undefined on input lin
+e 260.
 
 
-Package natbib Warning: Citation `xieyihui' on page 14 undefined on input line 
-296.
+Package natbib Warning: Citation `ChelseaParlett' on page 13 undefined on input
+ line 266.
 
 Missing character: There is no 😎 in font [lmroman10-regular]:mapping=tex-text!
 
-Package natbib Warning: Citation `dsquintana' on page 14 undefined on input lin
-e 300.
+Package natbib Warning: Citation `dsquintana' on page 13 undefined on input lin
+e 275.
 
-[14] [15] [16]
-Chapter 2.
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 380
-.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [17
+[13]
+
+Package natbib Warning: Citation `PsyBrief' on page 14 undefined on input line 
+306.
+
+[14] [15] [16
 
 ]
+Chapter 2.
+[17]
+
+Package natbib Warning: Citation `bn_becker' on page 18 undefined on input line
+ 348.
+
+
+Package natbib Warning: Citation `ChrisMontag77' on page 18 undefined on input 
+line 348.
+
 
 Package natbib Warning: Citation `dsquintana' on page 18 undefined on input lin
-e 384.
+e 350.
+
+[18]
+
+Package natbib Warning: Citation `Meta_Psy' on page 19 undefined on input line 
+354.
 
 
-Package natbib Warning: Citation `dsquintana' on page 18 undefined on input lin
-e 395.
+Package natbib Warning: Citation `WLouisUQ' on page 19 undefined on input line 
+354.
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 402--403
+Package natbib Warning: Citation `DLabMelbourne' on page 19 undefined on input 
+line 354.
+
+
+Package natbib Warning: Citation `HannesZacher' on page 19 undefined on input l
+ine 354.
+
+
+Package natbib Warning: Citation `Social_Neuro_M' on page 19 undefined on input
+ line 354.
+
+Missing character: There is no 🏳 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🌈 in font [lmroman10-regular]:mapping=tex-text!
+
+Package natbib Warning: Citation `GuyProchilo' on page 19 undefined on input li
+ne 357.
+
+
+Package natbib Warning: Citation `DanielArturAM' on page 19 undefined on input 
+line 368.
+
+
+Package natbib Warning: Citation `NatureComms' on page 19 undefined on input li
+ne 368.
+
+
+Package natbib Warning: Citation `dsquintana' on page 19 undefined on input lin
+e 370.
+
+Missing character: There is no ⁰ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴅ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴀ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ɴ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ɪ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ʙ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴇ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴄ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴋ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ❼ in font [lmroman10-regular]:mapping=tex-text!
+
+Package natbib Warning: Citation `_DaniBeck' on page 19 undefined on input line
+ 379.
+
+[19]
+
+Package natbib Warning: Citation `dsquintana' on page 20 undefined on input lin
+e 388.
+
+
+Package natbib Warning: Citation `dsquintana' on page 20 undefined on input lin
+e 399.
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 406--407
 \EU1/lmr/m/n/10 Small”, OR my chart-topping “Oxytocin Is Not the Cuddle Chemica
 l”
  []
 
 
-Package natbib Warning: Citation `dsquintana' on page 18 undefined on input lin
-e 404.
+Package natbib Warning: Citation `dsquintana' on page 20 undefined on input lin
+e 408.
+
+[20]
+
+Package natbib Warning: Citation `_inundata' on page 21 undefined on input line
+ 415.
 
 
-Package natbib Warning: Citation `_inundata' on page 18 undefined on input line
- 411.
-
-
-Package natbib Warning: Citation `mybinderteam' on page 18 undefined on input l
-ine 411.
+Package natbib Warning: Citation `mybinderteam' on page 21 undefined on input l
+ine 415.
 
 Missing character: There is no 👉 in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no 👇 in font [lmroman10-regular]:mapping=tex-text!
 
-Underfull \hbox (badness 1635) in paragraph at lines 411--412
+Underfull \hbox (badness 1635) in paragraph at lines 415--416
 \EU1/lmr/m/n/10 be run in any modern web browser, using \EU1/lmr/bx/n/10 ?\EU1/
 lmr/m/n/10 ’s ‘holepunch’ package +
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 411--412
+Underfull \hbox (badness 1112) in paragraph at lines 415--416
 \EU1/lmr/bx/n/10 ? \EU1/lmr/m/n/10 Full screencast w/links [11 mins] 👉 https://
 t.co/5sjlN0iY4hPreview 👇
  []
 
-[18]
 
-Package natbib Warning: Citation `dsquintana' on page 19 undefined on input lin
-e 413.
+Package natbib Warning: Citation `dsquintana' on page 21 undefined on input lin
+e 417.
 
-File: images/power.png Graphic file (type QTm)
-<use  "images/power.png" >
 
-Package natbib Warning: Citation `jamovistats' on page 19 undefined on input li
-ne 441.
+Package natbib Warning: Citation `dsquintana' on page 21 undefined on input lin
+e 428.
 
-[19]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 469.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 469.
-File: images/new_paper_own.png Graphic file (type QTm)
-<use  "images/new_paper_own.png" > [20]
-File: images/paper_mention.png Graphic file (type QTm)
-<use  "images/paper_mention.png" > [21] [22]
+
+Package natbib Warning: Citation `dsquintana' on page 21 undefined on input lin
+e 434.
+
+
+Package natbib Warning: Citation `jamovistats' on page 21 undefined on input li
+ne 438.
+
+Missing character: There is no ⤵ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text!
+
+Package natbib Warning: Citation `dsquintana' on page 21 undefined on input lin
+e 440.
+
+[21]
+
+Package natbib Warning: Citation `dsquintana' on page 22 undefined on input lin
+e 465.
+
+[22]
 Chapter 3.
-File: images/bookmark.png Graphic file (type QTm)
-<use  "images/bookmark.png" > [23
+Missing character: There is no 🔖 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🔖 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 👇 in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no 🏾 in font [lmroman10-regular]:mapping=tex-text!
 
-] [24]
-File: images/hashtag.png Graphic file (type QTm)
-<use  "images/hashtag.png" >
+Package natbib Warning: Citation `dsquintana' on page 23 undefined on input lin
+e 500.
+
+
+Package natbib Warning: Citation `AcademicChatter' on page 23 undefined on inpu
+t line 500.
+
+[23
+
+]
+Missing character: There is no ᴅ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴀ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ɴ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ɪ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ʙ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴇ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴄ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ᴋ in font [lmroman10-regular]:mapping=tex-text!
+Missing character: There is no ❼ in font [lmroman10-regular]:mapping=tex-text!
+
+Package natbib Warning: Citation `_DaniBeck' on page 24 undefined on input line
+ 502.
+
+
+Package natbib Warning: Citation `jenheemstra' on page 24 undefined on input li
+ne 513.
+
+
+Package natbib Warning: Citation `dsquintana' on page 24 undefined on input lin
+e 519.
+
+
+LaTeX Warning: Reference `fig:tag' on page 24 undefined on input line 524.
+
 File: images/tag.png Graphic file (type QTm)
-<use  "images/tag.png" > [25]
+<use  "images/tag.png" >
+
+LaTeX Warning: Reference `fig:poll' on page 24 undefined on input line 540.
+
+[24]
 File: images/poll.png Graphic file (type QTm)
-<use  "images/poll.png" > [26] [27] [28
-
-]
+<use  "images/poll.png" > [25] [26]
 Chapter 4.
-[29] [30]
-Chapter 5.
-File: images/mute.png Graphic file (type QTm)
-<use  "images/mute.png" >
-File: images/mute_word.png Graphic file (type QTm)
-<use  "images/mute_word.png" > [31
 
-] [32] [33] (./twitter_book.bbl [34]
+Package natbib Warning: Citation `NatureComms' on page 27 undefined on input li
+ne 572.
 
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
-)
+Overfull \hbox (3.76001pt too wide) in paragraph at lines 572--573
+\EU1/lmr/m/n/10 in the human brain has just been published in \EU1/lmr/bx/n/10 
+? \EU1/lmr/m/n/10 https://t.co/15NNImcQjNHere’s
+ []
 
-Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 689.
-[35
+Package natbib Warning: Citation `dsquintana' on page 27 undefined on input lin
+e 574.
+
+[27
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 689.
-(./twitter_book.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 689.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 689.
- ) 
-Here is how much of TeX's memory you used:
- 24455 strings out of 493591
- 434277 string characters out of 6143547
- 479513 words of memory out of 5000000
- 27587 multiletter control sequences out of 15000+600000
- 24418 words of font info for 59 fonts, out of 8000000 for 9000
- 1347 hyphenation exceptions out of 8191
- 54i,8n,54p,10410b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on twitter_book.pdf (35 pages).
+Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
+e 580.
+
+
+Package natbib Warning: Citation `jarekrokicki' on page 28 undefined on input l
+ine 584.
+
+
+Package natbib Warning: Citation `AllenInstitute' on page 28 undefined on input
+ line 584.
+
+
+Package natbib Warning: Citation `SFFNORMENT' on page 28 undefined on input lin
+e 584.
+
+
+Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
+e 586.
+
+
+Package natbib Warning: Citation `jarekrokicki' on page 28 undefined on input l
+ine 590.
+
+
+Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
+e 592.
+
+
+Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
+e 598.
+
+
+Package natbib Warning: Citation `dsquintana' on page 28 undefined on input lin
+e 604.
+
+[28]
+
+Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
+e 610.
+
+
+Package natbib Warning: Citation `jarekrokicki' on page 29 undefined on input l
+ine 614.
+
+
+Package natbib Warning: Citation `larswestlye' on page 29 undefined on input li
+ne 614.
+
+
+Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
+e 616.
+
+
+Package natbib Warning: Citation `dsquintana' on page 29 undefined on input lin
+e 625.
+
+[29]
+File: images/analytics.png Graphic file (type QTm)
+<use  "images/analytics.png" > [30] [31]
+File: images/tweetdeck.png Graphic file (type QTm)
+<use  "images/tweetdeck.png" >
+! Illegal parameter number in definition of \GetTitleStringResult.
+<to be read again> 
+                   P
+l.673 ...or keeping track of the #PhDChat hashtag}
+                                                  \label{fig:unnamed-chunk-6} 
+Here is how much of TeX's memory you used:
+ 24329 strings out of 493591
+ 431573 string characters out of 6143547
+ 475187 words of memory out of 5000000
+ 27485 multiletter control sequences out of 15000+600000
+ 24410 words of font info for 58 fonts, out of 8000000 for 9000
+ 1347 hyphenation exceptions out of 8191
+ 54i,8n,54p,10410b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on twitter_book.pdf (31 pages).
