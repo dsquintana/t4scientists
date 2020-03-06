@@ -97,7 +97,7 @@ Twitter's popularity is not going to last forever (remember MySpace?).It's hard 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sorry... <a href="https://t.co/FKUwiTaW6c">pic.twitter.com/FKUwiTaW6c</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1228658933511966725?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Audio
+### Audio
 
 Podcasts have been steadily growing in popularity. While it's relatively straightforward to start your own podcast for very little money (see my [step-by-step guide](https://www.dsquintana.blog/podcast-guide/)), it can be hard for other people to find your podcast on the popular podcast directories. To combat this discovery problem, you can post previews of your podcasts and links to episodes on Twitter.
 
