@@ -8,7 +8,15 @@ One benefit of using the Twitter app on your smartphone is that you can save you
 
 ### Using a twitter thread to announce a new paper
 
-Threads are a great way to announce a new paper, as you can say much more than if you were posting a single tweet. To demonstrate, I've selected ten tweets out of a twenty-five-tweet thread I used to summarise an important paper. 
+Threads are a great way to announce a new paper, as you can say much more than if you were posting a single tweet. I think threads are a much better way to announce your new papers than a blog post, because they're quicker to write and are more likely to be shared. Unless you add an approximate reading time for your blog posts, people don't know what to expect when they see a link to a blog post in Twitter. But threads are typically no longer than 20 tweets (and usually shorter), so people are more likely to start reading. In addition, you never know which tweet in your thread people will find particularly interesting. If you have a 20-tweet thread, then you have 20 tweets that can be potentially retweeted. 
+
+For more on why you should write threads, check out this thread.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You should use a Twitter thread to announce new papers instead of a blog post. <br><br>Here’s why...</p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1107939982361153537?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### How to write a thread 
+
+Here I've selected ten tweets out of a twenty-five-tweet thread I used to summarise a new paper. 
 
 Let's start with the first tweet. This is the introduction, which includes a link to the actual paper and four images from the paper. I also tagged the journal, who is active on Twitter, so that they could be notified of the tweet, so they can retweet it. I also note that this is a thread, at the bottom of the tweet, so that readers know what to expect.
 
