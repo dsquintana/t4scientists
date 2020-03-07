@@ -26,7 +26,7 @@ meta() %>%
     image_alt = "Twitter card",
     og_type = "book",
     og_author = "Daniel S. Quintana",
-    twitter_card_type = "summary",
+    twitter_card_type = "summary_large_image",
     #twitter_creator = "@dsquintana"
   )
 ```
