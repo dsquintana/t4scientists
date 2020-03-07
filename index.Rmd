@@ -21,14 +21,14 @@ meta() %>%
   meta_name("github-repo" = "dsquintana/t4scientists") %>% 
   meta_viewport() %>% 
   meta_social(
-    title = "Twitter for Scientists.",
-    url = "http://www.t4scientists.com/",
-    image = "https://github.com/dsquintana/t4scientists/blob/master/images/t_card.png",
+    title = "Twitter for Scientists",
+    url = "https://t4scientists.com/",
+    image = "https://raw.githubusercontent.com/dsquintana/t4scientists/master/images/t_card.png",
     image_alt = "Twitter card",
     og_type = "book",
     og_author = "Daniel S. Quintana",
     twitter_card_type = "summary",
-    twitter_creator = "@dsquintana"
+    #twitter_creator = "@dsquintana"
   )
 ```
 
