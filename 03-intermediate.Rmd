@@ -42,7 +42,7 @@ knitr::include_graphics('images/hashtagprofile.png')
 ```
 
 
-By doin, Chelsea's profile will appear when people search for the hashtags that she has included.
+By doing this, Chelsea's profile will appear when people search for the hashtags that she has included.
 
 ## Images
 
