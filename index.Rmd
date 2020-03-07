@@ -2,7 +2,6 @@
 title: "Twitter for Scientists"
 author: "Daniel S. Quintana"
 date: "March 4, 2020 (version 0.1)"
-cover-image: "images/t_card.png"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
