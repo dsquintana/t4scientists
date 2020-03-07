@@ -34,11 +34,21 @@ Hashtags are also useful for organising tweets related to a specific event, like
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">2009: The REAL conference is at the bar <br><br>2019: The REAL conference is on twitter</p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1104301358885281792?ref_src=twsrc%5Etfw">March 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+You can also use hashtags in your profile bio, which were mentioned in [Chapter 1](#beginner), like [\@ChelseaParlett](https://twitter.com/@ChelseaParlett).
+
+
+```{r,echo=FALSE, fig.align='left', out.width='80%'}
+knitr::include_graphics('images/hashtagprofile.png')
+```
+
+
+By doin, Chelsea's profile will appear when people search for the hashtags that she has included.
+
 ## Images
 
-When you post your images, you can tag Twitter usernames in your images. After adding your image, click on "Tag people" (Figure \@ref(fig:tag)).
+When you post your images, you can tag Twitter usernames in your images. After adding your image, click on "Tag people".
 
-```{r tag, fig.cap='Tagging users in photos.', echo=FALSE, fig.align='center', out.width='80%'}
+```{r, fig.cap='Tagging users in photos.', echo=FALSE, fig.align='left', out.width='80%'}
 knitr::include_graphics('images/tag.png')
 ```
 
@@ -46,9 +56,9 @@ Tagging photos has a few advantages. First, it saves you a few characters in you
 
 ## Twitter polls
 
-If you're reading this, you're probably a scientist, so you should understand that Twitter polls are by no means scientific. However, they still provide *some* information and provide a fun alternative to typical text tweets(Figure \@ref(fig:poll)).
+If you're reading this, you're probably a scientist, so you should understand that Twitter polls are by no means scientific. However, they still provide *some* information and provide a fun alternative to typical text tweets.
 
-```{r poll, fig.cap='A twitter poll', echo=FALSE, fig.align='center', out.width='80%'}
+```{r, fig.cap='A twitter poll', echo=FALSE, fig.align='center', out.width='80%'}
 knitr::include_graphics('images/poll.png')
 ```
 

@@ -1,6 +1,6 @@
 # Twitter for beginners {#beginner}
 
-Twitter was was originally conceived as a "micro-blogging" platform, in which users post short text updates. However, it later evolved into a social network where users interact with each other. The core of this platform is that users share 280-character text posts, which can include links and other media (e.g., images and videos). It's also easy to add emoji, which can add a little personality to your tweets.
+Twitter was originally conceived as a "micro-blogging" platform, in which users post short text updates. However, it later evolved into a social network where users interact with each other. The core of this platform is that users share 280-character text posts, which can include links and other media (e.g., images and videos). It's also easy to add emoji, which can add a little personality to your tweets.
 
 ## Setting up your Twitter profile
 
@@ -20,7 +20,7 @@ knitr::include_graphics('images/profile.png')
 
 It's important that you change your profile picture to something different from the default profile picture, as this helps reassure others that you're not a bot and also helps people identify you. The most obvious picture to use is one of yourself, but this isn't necessary. It's fine to change your image every now and then, but don't do this *too* often as people may not easily recognize you when you tweet.
 
-You can use a JPEG or GIF file with a maximum size of 2MB. As Twitter is used on a range of devices with different screen sizes, Twitter recommends that profile photos are 400x400 pixels.
+You can use a JPEG or GIF file with a maximum size of 2MB. As Twitter is used on a range of devices with different screen sizes, Twitter recommends that profile photos are 400x400 pixels. But don't worry if your picture isn't exactly these dimensions.
 
 ### Your Twitter header image
 
@@ -86,7 +86,7 @@ Just keep in mind that when you like a tweet, this *might* appear in the feed of
 
 ### Retweeting
 
-If you come across a tweet that you think your followers would like, then you can use the Retweet function. When you click on the Retweet button, you'll get two options. The first option is a conventional retweet, which will appear in your follower's timeline, as if one of the users they follow tweeted it. Below is an example of a retweet. Your followers will see that you've retweeted someone else's tweet (but they'll see your name rather than "You").
+If you come across a tweet that you think your followers would like, then you can use the Retweet function. When you click on the Retweet button, you'll get two options. The first option is a conventional retweet, which will appear in your follower's timeline, as if one of the users they follow tweeted it. Below is an example of a retweet. Your followers will see that you've retweeted someone else's tweet, like this.
 
 ```{r, fig.cap='A retweet example', echo=FALSE, fig.align='left', out.width='80%'}
 knitr::include_graphics('images/retweet.png')
@@ -112,17 +112,17 @@ Replying to tweets is one of the best ways to build your network, as it helps yo
 
 You can send a private direct message (often abbreviated as a "DM") to other Twitter users. This is a useful feature if you want to ask a question, but would rather the question wasn't public. But keep in mind that you can only send direct messages to people that are following you or people that have [opted in to recieve direct message from anyone](https://help.twitter.com/en/using-twitter/direct-messages#receive). I've decided to keep my direct messages open, so that anyone can contact me, but this is up to you. In addition, you can send group direct messages if you would like to privately chat in a group. 
 
-Just be a little wary when sending direct messages, as people have sometimes mistaken a private direct message reply for a public tweet reply and tweetied something embarrassing. You have been warned.
+Just be a little wary when sending direct messages, as people have sometimes mistaken a *public* tweet reply for a *private* direct message and tweeted something embarrassing. You have been warned.
 
 ## Your Twitter style
 
-### How ersonal should you tweets be?
+### How Personal should you tweets be?
 
-This is up to you, so share whatever you're comfortable with. Some perople like to keep their personal and academic lives separate, and others like to mix things up. One benefit of sharing some personal tweets is that it gives your Twitter account a little more personality, but don't feel that you *have* to do this.
+This is up to you, so share whatever you're comfortable with. Some perople like to keep their personal and academic lives separate, and others like to ix things up. One benefit of sharing some personal tweets is that it gives your Twitter account a little more personality, but don't feel that you *have* to do this.
 
 ### Finding your twitter "voice"
 
-Be yourself. Trying to be someone you're not on Twitter is not unsustainable in the long run. Another aspect to consider is how "professional" yowant your Twitter account to be. Some people think that you shouldn't tweet anything you wouldn't say in front of a live audience of your peers. I understand this sentiment, and realize that different fields have different conventions. But at the same time, you also need to think about the *context* of Twitter, which is typically more casual than doing an academic talk. Just keep in mind that anyone can search through your tweets, if they want. Finally, some institutions have a social media policy, so it's best to check if your institution has one before you start tweeting.
+Be yourself. Trying to be someone you're not on Twitter is not unsustainable in the long run. Another aspect to consider is how "professional" yont your Twitter account to be. Some people think that you shouldn't tweet anythiu ng you wouldn't say in front of a live audience of your peers. I understand this sentiment, and realize that different fields have different conventions. But at the same time, you also need to think about the *context* of Twitter, which is typically more casual than doing an academic talk. Just keep in mind that anyone can search through your tweets, if they want. Finally, some institutions have a social media policy, so it's best to check if your institution has one before you start tweeting.
 
 ### Using a pseudonym
 
