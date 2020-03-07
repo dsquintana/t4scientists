@@ -11,6 +11,27 @@ link-citations: yes
 description: "A Twitter guide for scientists"
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(metathis)
+meta() %>%
+  meta_description(
+    "A Twitter guide for scientists."
+  ) %>% 
+  meta_name("github-repo" = "dsquintana/t4scientists") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Twitter for Scientists.",
+    url = "http://www.t4scientists.com/",
+    image = "http://www.t4scientists.com/images/t_card.png",
+    image_alt = "Twitter card",
+    og_type = "book",
+    og_author = "Daniel S. Quintana",
+    twitter_card_type = "summary",
+    twitter_creator = "@dsquintana"
+  )
+```
+
 # Preface {-#preface}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are four ways to get your research known, but only only one of these is an option for every early career researcher: <br><br>1. Already be famous <br>2. Have a famous mentor <br>3. Repeatedly win the peer-review lottery<br>4. Actively contribute to social media</p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1105416818791993344?ref_src=twsrc%5Etfw">March 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
