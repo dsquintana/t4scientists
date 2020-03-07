@@ -50,6 +50,11 @@ Finally, I provide a summary and I thank my team again (this paper was *truly* a
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">We now have a map of oxytocin receptors in the human brain, which genes are co-expressed with oxytocin genes, and associated psychological states. <br><br>HUGE thanks to all co-authors, especially <a href="https://twitter.com/jarekrokicki?ref_src=twsrc%5Etfw">@jarekrokicki</a> &amp; <a href="https://twitter.com/larswestlye?ref_src=twsrc%5Etfw">@larswestlye</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814804949729281?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+Before moving to the next section, here's a final tip for your threads.
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">To increase the chances that people will share more individual tweets from your threads, write each tweet so that it can stand together on its own <a href="https://t.co/UoEw84DI5u">pic.twitter.com/UoEw84DI5u</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1107940108186120193?ref_src=twsrc%5Etfw">March 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Going viral
 
 It's almost impossible to predict which tweets will go viral, so don't spend time trying to make a viral tweet. I made the following tweet on a whim, thinking a few psychological scientists who are familiar with the [rabbit-duck illusion](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion) would find this funny. I was spectacularly wrong.
