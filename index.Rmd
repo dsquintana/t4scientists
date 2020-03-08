@@ -36,7 +36,7 @@ meta() %>%
 
 # Preface {-#preface}
 
-```{r,echo=FALSE, fig.align='left', out.width='80%'}
+```{r,echo=FALSE, fig.align='left', out.width='80%', out.height='50%'}
 knitr::include_graphics('images/book_cover.png')
 ```
 
