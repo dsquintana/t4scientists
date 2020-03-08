@@ -109,7 +109,7 @@ Having a Twitter account for your lab is a useful way to highlight all the resea
 
 Notice that the tweet is signed off with the initials "AB". This is to indicate that the tweet was written by [\@Alexer_Baxter](https://twitter.com/Alexer_Baxter) who is curating the account for the week. This particular tweet is a great example of using a hashtag meme (\#ThrowbackThursday, in which you post a photo from the past) to highlight your work. 
 
-It's also a good idea to introduce the curator and to pin this introduction to your ab's Twitter profile, as discussed in the [previous chapter](#intermediate).
+It's also a good idea to introduce the curator and to pin this introduction to your lab's Twitter profile, as discussed in the [previous chapter](#intermediate).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey Twitter, it’s Alexander (<a href="https://twitter.com/alexer_baxter?ref_src=twsrc%5Etfw">@alexer_baxter</a>), and I’m taking over our lab’s twitter account this week. Stay tuned for monkey photos and facts this week. <a href="https://t.co/x1HFRYHYsQ">pic.twitter.com/x1HFRYHYsQ</a></p>&mdash; Bales Lab (@BalesLab) <a href="https://twitter.com/BalesLab/status/1234549334827393024?ref_src=twsrc%5Etfw">March 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
