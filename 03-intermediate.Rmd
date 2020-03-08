@@ -68,11 +68,13 @@ Polls can sometimes start an interesting discussion around the subject of the po
 
 ## Notifications
 
-If you're easily distracted, I would consider [editing your notification settings](https://help.twitter.com/en/managing-your-account/notifications-on-mobile-devices) or turning then off altogether. 
+If you're easily distracted, I would consider [editing your notification settings](https://help.twitter.com/en/managing-your-account/notifications-on-mobile-devices) or turning then off altogether. It's nice to get that little buzz on your phone or the little red dot on your Twitter browser [favicon](https://en.wikipedia.org/wiki/Favicon), but every littnotificationck of y up over the day. If you're easily distracted by thintter, check out some of the tools mentioned in [Chapter 5](#care).
 
 ## Lists
 
-With [Twitter lists](https://help.twitter.com/en/using-twitter/twitter-lists), you can create unique feeds that *only* contain specific groups of Twitter accounts. This is a useful way of filtering your general feed, which can get quite busy once you start following more than a couple of hundred accounts. You can also subsribe to other user's curated lists. In ter are a few list suggestions if you'd like to make your own:
+With [Twitter lists](https://help.twitter.com/en/using-twitter/twitter-lists), you can create unique feeds that *only* contain specific groups of Twitter accounts. This is a useful way of filtering your general feed, which can get quite busy once you start following more than a couple of hundred accounts. You can also subsribe to other user's curated lists. 
+
+Here are a few list suggestions if you'd like to make your own:
 
 - Your collaborators
 - People in your institution or lab
