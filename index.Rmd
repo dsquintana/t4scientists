@@ -50,7 +50,7 @@ Twitter is a platform in flux. It didn't begin with retweets or images, let alon
 
 While it's difficult to predict what Twitter will look like in the future, the broad principles of the platform should remain similar. I will do my best to update this book in the future, in response to Twitter's updates and any changes in norms regarding how scientists use Twitter. 
 
-The online version of this book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The online version of this book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). I am not affiliated with Twitter and any views in this book are mine only.
 
 ## About me {-#about-me}
 

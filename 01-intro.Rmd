@@ -10,7 +10,7 @@ After you've [signed up for an account on Twitter](https://twitter.com/), you sh
 
 If you're still hesitant about joining Twitter, sign up so that you can secure a good username, at the very least. The longer you wait before signing up, the less likely you can secure a username to your liking. If possible, try to avoid a long string of numbers at the end of your username, because these types of usernames are often associated with [bot accounts](https://en.wikipedia.org/wiki/Twitter_bot). 
 
-If you can, pick a username that's close to your actual name, as this will make it easier for others to find you. Avoid a username that's something associated with your current research area---this might change in the future! Shorter names are also preferable, as these are easier for people to remember and count less towards twitter character limits when other people mention you in their tweets (more on this later in this chapter). All that to say, don't worry if all the possible permutations of your name are taken. You can still use any name that you like for your _display name_. When people see your tweets and your profile, they can see your username and your display name.
+If you can, pick a username that's close to your actual name, as this will make it easier for others to find you. Avoid a username that's associated with your current research area---this might change in the future! Shorter names are also preferable, as these are easier for people to remember and count less towards twitter character limits when other people mention you in their tweets (more on this later in this chapter). All that to say, don't worry if all the possible permutations of your name are taken. You can still use any name that you like for your _display name_. When people see your tweets and your profile, they can see both your username and your display name.
 
 ```{r, fig.cap='The elements of a Twitter profile', echo=FALSE, fig.align='left', out.width='80%'}
 knitr::include_graphics('images/profile.png')
@@ -26,7 +26,7 @@ You can use a JPEG or GIF file with a maximum size of 2MB. As Twitter is used on
 
 This is another opportunity for people to get a sense of what to expect when they follow you. If you would like some inspiration, get a free [Canva](https://canva.com/) account and then search "Twitter Header" for some free design templates that use the required dimensions (1500 by 500 pixels). 
 
-Another common header image as a landscape shot of the region where you live (or where you grew up). Two other popular options are an image of you giving a presentation, or an image of your latest publication. There aren't any specific rules here, but use the opportunity to share your personality or to give a preview of the sort of things that you'll tweet. Twitter also has its own [header image gallery](https://www.flickr.com/photos/twitteroffice/sets/72157643560484885/), with images, which  use the recommended dimensions.
+Another common header image is a landscape shot of the region where you live (or where you grew up). Two other popular options are an image of you giving a presentation, or an image of your latest publication. There aren't any specific rules here, but use the opportunity to share your personality or to give a preview of the sort of things that you'll tweet. Twitter also has its own [header image gallery](https://www.flickr.com/photos/twitteroffice/sets/72157643560484885/), with images that have the recommended dimensions. You can also find some great images on [Unsplash](https://unsplash.com), which you can use with or without attribution.
 
 ### Your bio
 
@@ -58,7 +58,7 @@ You can get pretty creative with emoji in your tweets.
 ### Using text in your tweets
 Twitter was originally conceived as a SMS-based service, in which you could send text-only tweets via SMS.^[Believe it or not, this SMS tweet-feature [still exists](https://help.twitter.com/en/using-twitter/twitter-sms).] The majority of tweets are text only, so this is Twitter's bread and butter. 
 
-Your text can also include website URLs. Regardless of the size of the URL, Twitter will treat each URL as 23 characters. You can also mention other Twitter users, by writing the '@' symbol, followed by their twitter username, like this: \@dsquintana. When you mention other people in your tweets, they will be notified. 
+Your text can also include website URLs. Regardless of the size of the URL, Twitter will treat each URL as 23 characters. You can also mention other Twitter users, by writing the '@' symbol, followed by their Twitter username, like this: \@dsquintana. When you mention other people in your tweets, they will be notified. 
 
 ### The types of images and videos you can include with your tweets
 
@@ -72,7 +72,7 @@ knitr::include_graphics('images/unsplash.png')
 
 You can also upload GIFs, which are animated images, and search for GIFs directy by clicking on the "GIF" symbol when composing a tweet. GIFs have become a very popular way to share moving images. You can also use GIFs as a replacement for more conventional videos. If you're adding GIFs from another source, there's a 15MB limit when uploading from your desktop (5MB if uploading via the Twitter mobile app).
 
-Additionally, you can also upload conventional videos via the Twitter website. Videos cannot be longer than 2 minutes and 20 seconds or larger than 512MB. There are a number of additional limitations when uploading videos via the Twitter website that you should also [be aware of](https://help.twitter.com/en/using-twitter/twitter-videos). Uploading videos via the Twitter mobile app is less restrictive in terms of file formats, as you can upload both MOV and MP4 files. If you have video that's longer than two minutes and twenty seconds, you can upload the video to YouTube and then tweet the link to the video. I would also recommend posting a short preview of your YouTube video, as I demonstrate in the [next chapter](#composing-tweets).
+Additionally, you can also upload conventional videos via the Twitter website. Videos cannot be longer than 2 minutes and 20 seconds or larger than 512MB. There are a number of additional limitations when uploading videos via the Twitter website that you should also [be aware of](https://help.twitter.com/en/using-twitter/twitter-videos). Uploading videos via the Twitter mobile app is less restrictive in terms of file formats, as you can upload both MOV and MP4 files. If you have a video that's longer than two minutes and twenty seconds, you can upload the video to YouTube and then tweet the link to the video. I would also recommend posting a short preview of your YouTube video, as I demonstrate in the [next chapter](#composing-tweets).
 
 ## Interacting with other tweets
 
@@ -102,7 +102,7 @@ Here's another example of a retweet with a comment.
 
 ### Replying to tweets
 
-One of the great things about Twitter is that it makes it much easier to chat with people that can otherwise be difficult to contact via email. An email (usually) includes a salutation, some brief chit-chat, the actual question or comment, then a sign off. With twitter you just write the question or comment. In the following example, I'm replying to a tweet from [\@xieyihui](https://twitter.com/xieyihui), who quote-retweeted one of my tweets.
+One of the great things about Twitter is that it makes it much easier to chat with people that are otherwise difficult to contact via email. An email (usually) includes a salutation, some brief chit-chat, the actual question or comment, then a sign off. With twitter you just write the question or comment. In the following example, I'm replying to a tweet from [\@xieyihui](https://twitter.com/xieyihui), who quote-retweeted one of my tweets.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You&#39;ve read my mind 😎 I hope to do one after I&#39;ve had a little more experience with the package. I hadn&#39;t realised until using it how useful bookdown could be for technical documents!</p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1235283618022518784?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

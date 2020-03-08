@@ -2,9 +2,9 @@
 
 ## Twitter threads
 
-You can't say a lot in a 280-character tweet, but with a thread you can connect a series of tweets together to say a lot. In principle, there is no limit to how many tweets can go in a thread; however, Twitter will only let you post 20 consecutive tweets in a single instance. I think this is a sensible limit for a thread, but you can always add additional tweets after you've posted your first 20 if you like.
+You can’t say a lot in a 280-character tweet, but you *can* with a Twitter thread, which connects a series of tweets. In principle, there is no limit to how many tweets can go in a thread; however, Twitter will only let you post 20 consecutive tweets in a single instance.  I think this is a sensible limit for a thread, but you can always add additional tweets after you’ve posted your first 20, if you like.
 
-One benefit of using the Twitter app on your smartphone is that you can save your tweets as drafts---this includes threads as well. So, this means that you don't have to write a thread in a single sitting. Simply select "cancel" when writing a tweet, then select "save draft".
+One benefit of using the Twitter app on your smartphone is that you can save your tweets as drafts---this includes threads as well. So, this means that you don't have to write a thread in a single sitting. Simply select "Cancel" when writing a tweet, then select "Save draft".
 
 ### Using a twitter thread to announce a new paper
 
@@ -18,11 +18,11 @@ For more on why you should write threads, check out this thread.
 
 Here I've selected ten tweets out of a twenty-five-tweet thread I used to summarise a new paper. 
 
-Let's start with the first tweet. This is the introduction, which includes a link to the actual paper and four images from the paper. I also tagged the journal, who is active on Twitter, so that they could be notified of the tweet, so they can retweet it. I also note that this is a thread, at the bottom of the tweet, so that readers know what to expect.
+Let's start with the first tweet. This is the introduction, which includes a link to the actual paper and four images from the paper.  I also tagged the journal, so that they could be notified of the tweet and hopefully retweet it from their account. I also note that this is a thread, at the bottom of the tweet, so that readers know what to expect.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Very happy to announce that our new paper on oxytocin pathway gene networks in the human brain has just been published in <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a> <a href="https://t.co/15NNImcQjN">https://t.co/15NNImcQjN</a><br><br>Here’s the story behind this study, how we did it, and what we found... <br><br>[THREAD] <a href="https://t.co/sh7bTgg17l">pic.twitter.com/sh7bTgg17l</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814606441648128?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The next tweet gives a little context as to why I did the study. This striking image is prominent and a link is included if people want to read more. 
+The next tweet gives a little context as to why I did the study. I added a striking image and a link to the paper it’s from if people want to read more.
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Oxytocin-like signaling is an ancient system that goes as far back down the tree as earthworms &amp; sea squirts <a href="https://t.co/I82IJboVXC">https://t.co/I82IJboVXC</a> Oxytocin production occurs similarly across mammals but the *location* of oxytocin receptors in the brain can vary, even in closely related species <a href="https://t.co/08ePQwht0W">pic.twitter.com/08ePQwht0W</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814618357673984?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -30,7 +30,7 @@ This tweet explains the story behind the paper idea and acknowledges the team be
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Without access to post-mortem brains, I couldn’t do this myself. But then one day in our lab meeting, <a href="https://twitter.com/jarekrokicki?ref_src=twsrc%5Etfw">@jarekrokicki</a> presented the <a href="https://twitter.com/AllenInstitute?ref_src=twsrc%5Etfw">@AllenInstitute</a> human brain atlas and I saw an opportunity. <br><br>Here’s the <a href="https://twitter.com/SFFNORMENT?ref_src=twsrc%5Etfw">@SFFNORMENT</a> multimodal imaging lab, including some of the study co-authors <a href="https://t.co/lCBdBGR3mn">pic.twitter.com/lCBdBGR3mn</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814657742262272?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This tweet covers some of the methods for our analysis
+This tweet covers some of the methods for our analysis.
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here’s how <a href="https://twitter.com/jarekrokicki?ref_src=twsrc%5Etfw">@jarekrokicki</a>, co-first author of our study, analysed our data from the raw Allen gene expression dataset <a href="https://t.co/BJEWVyOBA9">pic.twitter.com/BJEWVyOBA9</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1093814664771837953?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -67,7 +67,7 @@ While viral tweets have the upside of getting you a few more followers, Twitter 
 
 GIFs get a lot of attention. For instance, instead of just posting a static image of your paper, you can create a GIF that scrolls through your paper. Of course, you could post this as a video, but people often expect audio when they come across a video. GIFs don't have audio and continually loop. There is a huge library of GIFs online and you can also [search for GIFs](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures) directly in Twitter when composing a tweet.
 
-If you would like to make GIFs on your desktop, I recommend the [GIF Brewery app](https://gfycat.com/gifbrewery) (Mac only), as this gives you lots of options for making GIFs. For your smartphone, I recommend [ImgPlay](https://imgplay.net/) (iOS and Android). The best part of this app is that you squeeze your GIFs down to the 5MB Twitter limit when exporting your GIF. You can't do this with GIF Brewery app, and you'll have to sometimes play around with the settings to get your GIF under the 5MB limit.
+If you would like to make GIFs on your desktop, I recommend the [GIF Brewery app](https://gfycat.com/gifbrewery) (Mac only), as this gives you lots of options for making GIFs. For your smartphone, I recommend [ImgPlay](https://imgplay.net/) (iOS and Android). The best part of this app is that you can squeeze the size of your GIFs to under the 5MB Twitter limit. You can't do this with GIF Brewery app, and you'll have to sometimes play around with the settings to get your GIF under the 5MB limit.
 
 ## Getting your tweet back in the feed again
 
@@ -115,7 +115,7 @@ It's also a good idea to introduce the curator and to pin this introduction to y
 
 ## Using twitter to highlight your work on other platforms
 
-Twitter's popularity is not going to last forever (remember MySpace?). It's hard to predict the next big social media platform, but it's either going to be predominantly driven by text, video, or audio. If it's text, then getting involved with Twitter now you'll get valuable experience. If you don't want to get involved on Twitter because it's a fad, you'll never get involved on *any* network---they're all fads in the long run. However, if the next big thing is audio or video, then you can use Twitter to highlight your posts on these types of networks.
+Twitter's popularity is not going to last forever (remember MySpace?). It's hard to predict the next big social media platform, but it's either going to be predominantly driven by text, video, or audio. If it’s text-based platform, then by getting involved with Twitter *now*, you’ll get valuable experience. If you don't want to get involved on Twitter because it's a fad, you'll never get involved on *any* network---they're all fads in the long run. However, if the next big thing is audio or video, then you can use Twitter to highlight your posts on these types of networks.
 
 ### Video
 [TikTok](https://www.tiktok.com/en/) is emerging as a wildly popular social media platform, in which you post short videos that are typically set to music. Right now this platform skews quite young, but don't forget that this is how Facebook began too. Despite the great opportunities for science communication, very few scientists are on TikTok at the moment, but it's easy to post your TikTok videos to Twitter.

@@ -1,12 +1,10 @@
 # Composing tweets
 
-The most common question I get at social media workshops that I've run is, "What should I tweet?". There is no easy answer to this, because every researcher and their subfield is different. But regardless of your subfield, _the best way to engage your followers is to either entertain or educate_. In other words, you should aim to help people either pass time or save time. Being entertaining doesn't come naturally to most people, so don't worry if this isn't you. But as a scientist, you are very well-placed to educate, no matter your level of training.
+The most common question I get at social media workshops that I've run is, "What should I tweet?". There is no easy answer to this, because every researcher and their subfield is different. But regardless of your subfield, __the best way to engage your followers is to either entertain or educate__. In other words, you should aim to help people either pass time or save time. Being entertaining doesn't come naturally to most people, so don't worry if this isn't you. But as a scientist, you are very well-placed to educate, no matter your level of training.
 
 Thanks to [Chapter 1](#beginner), you're up to speed with the general mechanics of Twitter. You also just learnt about the "entertain or educate" principle, with *any* scientist ready to educate. But even when arriving at this point, many scientists hit a wall, because they believe they can only tweet the finished product of their work, which is typically papers. But as soon as you realise that the *process* of your work is just as interesting as the *output*, then things become much easier. You're going to see a few examples of this below.
 
 When it comes to tweet frequency, it's hard to give any firm recommendations. Whether you're tweeting too much depends on how many people your followers are following, and how much *they* tweet. So, this means that the "too much" threshold is different for everyone. In my opinion, I think it's fairly difficult to tweet too much. In the early days of Twitter (or any social network), where users didn't follow that many people, it was pretty easy to flood someone's timeline. But now, people tend to follow hundreds (sometimes thousands) of accounts, so this is harder to do. I think the upside of more tweets outweighs the downside a few people unfollowing you because they think you tweet too much. You never know which tweets other people will find interesting.
-
-Well-written tweets reduce friction and uncertainty. For example, people are more likely to click on a link to a paper if they can read the abstract first, in an attached image. By including an image of an abstract, people can quickly scan if the paper is worth accessing.
 
 ## Some example tweets
 
@@ -55,7 +53,7 @@ As scientists, we use several tools in our day-to-day work. Even if these tools 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting to get the hang of the {bookdown} <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> package, super impressed! Check out this package if you&#39;ve ever wanted to put together a book, technical document, or long-form document <a href="https://t.co/5Wa4ISkYUG">https://t.co/5Wa4ISkYUG</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1235114385569439744?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Notice that the link has been converted into a small image with information, which is called a [Twitter Card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards). This is a feature of more modern websites, which include Twitter Card information in their underlying code. If you're Tweeting from your phone, the Twitter Card will appear, if it's available, as soon as you enter the link. This doesn't occur when tweeting from your desktop, but you can quickly check if there's a Twitter card associated with the link you're going to post on the [Twitter Card Validator](https://cards-dev.twitter.com/validator) website. 
+Notice that the link has been converted into a small image with information, which is called a [Twitter Card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards). This is a feature of more modern websites (including this one), which include Twitter Card information in their underlying code. If you’re tweeting from your smartphone, the Twitter Card will appear (if it’s available) as soon as you enter the link. This doesn’t occur when tweeting from your desktop, but you can quickly check if there’s a Twitter Card associated with the link you’re going to post on the [Twitter Card Validator](https://cards-dev.twitter.com/validator) website. If the Twitter Car contains a nice image then you might not need to add your own. You can also delete the Twitter Card from your tweet as well.
 
 ### Asking a question
 
@@ -71,9 +69,11 @@ Memes are fun, but also a good way to demonstrate knowledge and authority in you
 
 ### Sharing videos 
 
-You can include a video that's up to two minutes and twenty seconds long in your tweets. In the following tweet, I've included a link to an eleven-minute instructional YouTube video. I can't show the entire video due to Twitter's limits, so I've included a short preview to entice people to click on the link to the full video.
+You can include a video that’s up to two minutes and twenty seconds long in your tweets. In the following tweet, I’ve included a link to an eleven-minute instructional YouTube video. I can’t show the entire video due to Twitter’s limits, so I’ve included a short preview to entice people to click on the link to the full video.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to make a reproducible version of your <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> analysis that can be run in any modern web browser, using <a href="https://twitter.com/_inundata?ref_src=twsrc%5Etfw">@_inundata</a>’s &#39;holepunch&#39; package + <a href="https://twitter.com/mybinderteam?ref_src=twsrc%5Etfw">@mybinderteam</a> <br><br>Full screencast w/links [11 mins] 👉 <a href="https://t.co/5sjlN0iY4h">https://t.co/5sjlN0iY4h</a><br><br>Preview 👇 <a href="https://t.co/SsX8qozMJ8">pic.twitter.com/SsX8qozMJ8</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1162002047794864128?ref_src=twsrc%5Etfw">August 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+People can’t always listen to audio when they’re scrolling Twitter, so it’s a good idea to include subtitles. This also increases accessibility for those with hearing impairments. When you upload your video to YouTube, it can [automatically transcribe your audio](https://support.google.com/youtube/answer/6373554). In my experience, this is about 80% accurate, so you will need to do *some* editing of the transcription. 
 
 
 ### Documenting your experiences
