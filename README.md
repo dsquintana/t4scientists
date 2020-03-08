@@ -1,6 +1,6 @@
 # Twitter for scientists (t4scientists)
 
-![Twitter for scientists card](https://raw.githubusercontent.com/dsquintana/t4scientists/master/images/t_card.png)
+![Twitter for scientists card](https://raw.githubusercontent.com/dsquintana/t4scientists/master/images/book_cover.png)
 
 This repository hosts files for the first version of a book for scientists on how to use Twitter. Read the book [here](https://t4scientists.com/). 
 
