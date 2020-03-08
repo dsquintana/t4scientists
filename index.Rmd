@@ -32,7 +32,15 @@ meta() %>%
   )
 ```
 
+
+
 # Preface {-#preface}
+
+```{r,echo=FALSE, fig.align='left', out.width='80%'}
+knitr::include_graphics('images/book_cover.png')
+```
+
+## Why write a book on Twitter for scientists? {-#why-write-a-book-on-twitter-for-scientists}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are four ways to get your research known, but only only one of these is an option for every early career researcher: <br><br>1. Already be famous <br>2. Have a famous mentor <br>3. Repeatedly win the peer-review lottery<br>4. Actively contribute to social media</p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/1105416818791993344?ref_src=twsrc%5Etfw">March 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
