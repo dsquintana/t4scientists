@@ -16,18 +16,18 @@ knitr::opts_chunk$set(echo = TRUE)
 library(metathis)
 meta() %>%
   meta_description(
-    "A Twitter guide for scientists."
+    "An e-book for boosting your academic career."
   ) %>% 
   meta_name("github-repo" = "dsquintana/t4scientists") %>% 
   meta_viewport() %>% 
   meta_social(
     title = "Twitter for Scientists",
     url = "https://t4scientists.com/",
-    image = "https://raw.githubusercontent.com/dsquintana/t4scientists/master/images/t_card.png",
+    image = "https://raw.githubusercontent.com/dsquintana/t4scientists/master/images/book_cover.png",
     image_alt = "Twitter card",
     og_type = "book",
     og_author = "Daniel S. Quintana",
-    twitter_card_type = "summary_large_image",
+    twitter_card_type = "summary",
     #twitter_creator = "@dsquintana"
   )
 ```
