@@ -69,3 +69,16 @@ Polls can sometimes start an interesting discussion around the subject of the po
 ## Notifications
 
 If you're easily distracted, I would consider [editing your notification settings](https://help.twitter.com/en/managing-your-account/notifications-on-mobile-devices) or turning then off altogether. 
+
+## Lists
+
+With [Twitter lists](https://help.twitter.com/en/using-twitter/twitter-lists), you can create unique feeds that *only* contain specific groups of Twitter accounts. This is a useful way of filtering your general feed, which can get quite busy once you start following more than a couple of hundred accounts. You can also subsribe to other user's curated lists. In ter are a few list suggestions if you'd like to make your own:
+
+- Your collaborators
+- People in your institution or lab
+- Journals and preprint servers
+- Scientists that tweet about specific topics (e.g., statistics)
+- Non-science interests (e.g., music)
+- Accounts that make you laugh 
+
+These lists can either be public or private, and you don't have to be following accounts that you've added to your list.

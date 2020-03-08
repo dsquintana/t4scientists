@@ -1,5 +1,6 @@
 # Acknowledgements
 
-Thanks to [\@_DaniBeck](https://twitter.com/_DaniBeck), [\@PsychBrief](https://twitter.com/PsychBrief), [\@ChelseaParlett](https://twitter.com/@ChelseaParlett),  [\@BrianPulling](https://twitter.com/BrianPulling) and [\@biomechstu](https://twitter.com/biomechstu) who provided feedback on a draft version of this book. 
+Thanks to [\@_DaniBeck](https://twitter.com/_DaniBeck), [\@PsychBrief](https://twitter.com/PsychBrief), [\@ChelseaParlett](https://twitter.com/@ChelseaParlett),  [\@BrianPulling](https://twitter.com/BrianPulling),
+[\@dhlwilson](https://twitter.com/dhlwilson), and [\@biomechstu](https://twitter.com/biomechstu) who provided feedback on a draft version of this book. 
 
 I wrote and published this book using the [bookdown R package](https://bookdown.org/) and host the book on [Github](https://github.com/dsquintana/t4scientists). I first learnt about these tools on Twitter, of course.

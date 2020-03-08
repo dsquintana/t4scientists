@@ -99,7 +99,9 @@ This [web app](https://tweetdeck.com/), which can also be downloaded as a [Mac a
 knitr::include_graphics('images/tweetdeck.png')
 ```
 
-Tweetdeck can be particularly useful if you have more than one twitter account (e.g., your individual account and an account for your lab) of if you're following a specific hashtag or search term. But I should warn you, this app can be very addictive because it can show you multiple streams of new information.
+Tweetdeck can be particularly useful if you have more than one twitter account (e.g., your individual account and an account for your lab) of if you're following a specific hashtag or search term. You can create a column with any lists that you've put together, which I covered in the [previous chapter](#intermediate).
+
+But I should warn you, this app can be very addictive because it can show you multiple streams of new information.
 
 ## Curating your lab's twitter account
 
@@ -113,7 +115,7 @@ It's also a good idea to introduce the curator and to pin this introduction to y
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey Twitter, it’s Alexander (<a href="https://twitter.com/alexer_baxter?ref_src=twsrc%5Etfw">@alexer_baxter</a>), and I’m taking over our lab’s twitter account this week. Stay tuned for monkey photos and facts this week. <a href="https://t.co/x1HFRYHYsQ">pic.twitter.com/x1HFRYHYsQ</a></p>&mdash; Bales Lab (@BalesLab) <a href="https://twitter.com/BalesLab/status/1234549334827393024?ref_src=twsrc%5Etfw">March 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Using twitter to highlight your work on other platforms
+## Using Twitter to highlight your work on other platforms
 
 Twitter's popularity is not going to last forever (remember MySpace?). It's hard to predict the next big social media platform, but it's either going to be predominantly driven by text, video, or audio. If it’s text-based platform, then by getting involved with Twitter *now*, you’ll get valuable experience. If you don't want to get involved on Twitter because it's a fad, you'll never get involved on *any* network---they're all fads in the long run. However, if the next big thing is audio or video, then you can use Twitter to highlight your posts on these types of networks.
 
