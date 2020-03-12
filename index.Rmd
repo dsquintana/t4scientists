@@ -67,3 +67,7 @@ I'm a research scientist at the University of Oslo, in the area of biological ps
 I'm the co-host and producer of [*Everything Hertz*](https://everythinghertz.com/), which is a podcast about methodology and scientific life in the biobehavioral sciences. We talk a lot about Twitter on this show, and its role in scientific practice. Many of our episode topics are also inspired by discussions on Twitter. You can also find me on [YouTube](https://www.youtube.com/user/dsquintana85), [Facebook](https://www.facebook.com/dsquintana.research), [Instagram](https://www.instagram.com/dsquintana), [TikTok](https://www.tiktok.com/@dsquintana), and [my blog](https://www.dsquintana.blog/).
 
 I live on an island in the Oslo fjord with my wife and two daughters. 
+
+## How to cite this book {-#how-to-cite-this-book}
+
+Quintana, D.S. (2020). *Twitter for Scientists* [eBook edition]. Retrieved from https://t4scientists.com/. DOI: 10.5281/zenodo.3707741
