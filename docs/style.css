@@ -12,3 +12,38 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+/* -----------div tips------------- */
+
+  div.puzzle, div.fyi, div.demo, div.note, div.salt {
+    padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    color: #1f5386;
+    background-color: #bed3ec;
+    border: solid 5px #dfedff;
+  }
+  
+  div.puzzle {
+  background-image: url("Your-turn.png");
+}
+
+div.fyi {
+ background-image: url("fyi.png");
+}
+
+div.demo {
+  background-image: url("Live-code.png");
+}
+
+div.note {
+  background-image: url("lightbulb.png");
+}
+
+div.salt {
+  background-image: url("salt.png");
+}

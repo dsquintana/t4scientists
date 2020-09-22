@@ -1,0 +1,42 @@
+# Why you should use Twitter
+
+Academia is not a meritocracy. Good ideas and hard work aren't necessarily rewarded, and folks that already hold positions of influence are the ones that tend to get [handed more opportunities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3017158/). Small coteries of gatekeepers decide what gets published in academic journals, who gets selected to present their work at conferences, and which research studies get reported in the media.
+
+To build your academic career you need to grow your reputation. But if you are not well-known already then you’re at a distinct disadvantage. It’s certainly possible to squeeze yourself into this “attention cycle”, in which success begets success, but this typically takes a consecutive string of lucky decisions with grant applications and manuscript submissions. The corollary of this is that many early career researchers are only one decision away from losing their jobs.
+
+There is a prestige bias for success in grant applications and manuscript submissions. To thwart this, [several grant agencies now use a lottery system](https://www.nature.com/articles/d41586-019-03572-7) for grant applications and some journals blind the identities of authors to reviewers. But such attempts to reduce prestige bias are not the norm, Those not in a position of privilege have had to disproportionately rely on luck, which is a grim situation.
+
+Fortunately, Twitter has turned the prevailing academic system on its head by helping level academia's lopsided playing field.
+
+Prior to the advent of social media, there was no alternative (other than good fortune) to join the attention cycle. The only way to share your work was by navigating gate-keepers in academic publishers or news organizations. The enormous cost of maintaining these infrastructures for distributing information ensured that sharing information outside these established channels was well out of reach for the individual researcher.
+
+With social media, the opportunity to share work is now available to everyone. You don’t have to run the unpredictable gauntlet of peer-review for others to learn about your research, because you can now post your ideas on Twitter and share links to preprints. There’s no need to get a coveted conference talk invitation for others to hear your work, as you can now also post the audio and video of your talks for anyone to see and hear. Rather than hoping a news organization picks up your press release for a story, you can share blogposts explaining your work, with the type of nuance it deserves.
+
+People can’t read your work if they don’t know it exists. This statement seems obvious, but historically, scholars would discover new research by reading journals (typically prestigious ones), attending conferences, or via word-of-mouth. Fortunately , there's been a shift in the past few years, whereby growing numbers of scholars have been paying attention to Twitter.
+
+Sure, a sizable number of academics don’t use Twitter, but this doesn’t matter. By getting your work in front of those academics that do use Twitter, you increase the chances of getting your work featured in these traditional channels for sharing research and joining the attention cycle.
+
+## Fast feedback {.unlisted .unnumbered}
+
+Peer-review is necessary but slow. Once you combine peer-review with the time it takes to plan and run a study, it can take years before your research is published.
+
+But what if your work has serious limitations that your collaborators (or reviewers) missed? Or what if your work isn't even of broad interest to other academics? With the traditional peer-review system, you won't get a good idea of the impact of your work has until it's been available for enough time to begin accruing citations. This time period varies from field-to-field, but for many it can take 12-18 months for citations to start trickling through.
+
+In the traditional publication system, you could spend hundreds of person-hours on project that's not the best use of your time, but you won’t discover this until well after you’ve already completed the work.
+
+Here is example of a tweet asking for feedback, which was at the end of a thread summarising a new preprint that we posted last year.
+
+```{r, echo=FALSE}
+tweetrmd::include_tweet("https://twitter.com/dsquintana/status/1156942188116414465?s=20", hide_thread = TRUE)
+```
+
+After posting this, I got feedback from several people, which ranged from the identification of typos to helpful critiques of our central argument. These critiques improved the paper, which is [now published](https://pubmed.ncbi.nlm.nih.gov/32360118/). Perhaps these issues around our central argument would have been caught during peer-review, but when this process is limited to three or four reviewers your chances are slimmer than when you open up critique to everyone.
+
+
+Of course, you can still post your work on preprint servers without posting links on Twitter. But unless you're already well-known, it can be difficult for your work to be discovered. Research on Twitter can go viral very quickly, thanks to retweeting. Unlike sending an email to your colleague ("Look at this new preprint that I found!") retweeting is effortless, so your work can spread exponentially.
+
+Most people who boast they "made it" without social media already had a large platform at was established before the advent of social media or a foundation of privilege—this is especially the case for successful academics. An environment in which the only way to learn about new research is prestigious publications or conferences is difficult to break into, especially when opportunities are limited.
+
+It is difficult to imagine the academic publishing and conference system ecosystems self-correcting to provide more equitable opportunities. When you’re in a position of power and the system is tilted to your favour, there is little motivation to make any changes.
+
+Fortunately, social media has toppled the academic monopoly of attention that was once hoarded by a selective group of journals and conferences. Everyone now has a more equitable opportunity to get attention for their research.

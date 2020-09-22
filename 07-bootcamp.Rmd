@@ -1,0 +1,129 @@
+# One-month Twitter bootcamp
+
+If you're new to Twitter or you signed up in the past but haven't tweeted since, this one-month template will help get you started. For most days, I'll give you two options for what you can tweet. 
+
+This isn't a magic formula, simply a template for people to use who aren't sure how to get started with Twitter. Of course you can deviate from what I recommend here, but if you're not sure what to do, just refer to this guide.
+
+As I've mentioned before, it's better to tweet too much than too little. When people look at your profile and decide whether to follow you, they're more likely to follow you if they see that you regularly tweet. This template provides a guide for what to tweet for twenty days, but bonus points if you also want to tweet on the weekends. I'll leave this up to you. Of course, you can do more than one tweet a day so this is just a minimum guideline.
+
+## Week 1 {.unnumbered}
+
+### Day 1 {.unnumbered}
+
+Accountability is powerful, especially *public* accountability, so your first tweet is going to announce your intention to tweet at least once every weekday for the first month. Here's an example: "Over the next month I'm going to tweet at least once every weekday".
+
+Find about 50 people to follow (see [section 2](#beginner) for a refresher on finding people). As I mentioned in Chapter 1, don't follow too many people before you get started with this bootcamp. 
+
+### Day 2 {.unnumbered}
+
+- Option 1: [Share a study](#composing) that you've recently read. Remember to include an image (e.g., a screenshot of the abstract or a figure from the article) and tag the authors (if they're on Twitter). Just search their name + Twitter (e.g., "Daniel Quintana twitter). If they have a more common name, try adding the term "scientist" or the field they're in (e.g., "Chris Jackson geology twitter").
+- Option 2: [Share a summary](#composing) of one of your own studies, it doesn't have to be a recent one. If haven't published a paper yet, you can post a summary of your project plans.
+
+### Day 3 {.unnumbered}
+
+- Option 1: [Retweet](#beginner) someone that you're following. Remember, if you find something interesting, there's a good chance your followers will find that interesting too
+- Option 2: Do a [quote-retweet](#beginner), in which you add a comment. This could be a simple as "Here's an interesting paper".
+
+### Day 4 {.unnumbered}
+
+- Option 1: Reply to someone's tweet with a comment. If you think that others would find this reply tweet useful, [retweet this tweet](#advanced).
+- Option 2: Ask a question using a [hashtag](#intermediate) to target a specific community. For example, if you use the R statistical language, you use the #Rstats hashtag. You can also ask general career questions using the #PhDChat hashtag, if you're a graduate student. 
+
+### Day 5 {.unnumbered}
+
+- Option 1: Share a tool that you use in your research (e.g., software)
+- Option 2: Post a link to a study that you've recently read
+
+## Week 2 {.unnumbered}
+
+### Day 6 {.unnumbered}
+
+Now that you have a few tweets under your belt, follow another 50 people, or so.
+
+- Option 1: Quote retweet something from one of the new people you just followed
+
+- Option 2: Reply to one of the tweets of the accounts you just followed
+
+### Day 7 {.unnumbered}
+
+- Option 1: Post the PowerPoint slides from one your presentations to Open Science Framework and share the link. Add the four best slides as images to your tweet. Don't forget to use images every opportunity you can. Alternatively, you can post a GIF preview of your entire slideshow:
+
+
+```{r tweet-slideshow, echo=FALSE}
+tweetrmd::include_tweet("https://twitter.com/dsquintana/status/1124666523094745088")
+```
+
+- Option 2: Share a paper you recently read and share the take-home message.
+
+### Day 8 {.unnumbered}
+
+- Option 1: Share a photo from your day (e.g., you lab, your desk, any books you're reading)
+- Option 2: Get meta and talk about how your finding this bootcamp
+
+### Day 9 {.unnumbered}
+
+- Option 1: Reply to a tweet 
+- Option 2: Share a tool that you're currently using
+
+### Day 10 {.unnumbered}
+
+- Option 1: Post [a thread](#advanced) describing one of your studies or your study plans (see section 4.1), 
+- Option 1: [Pin a new tweet](#intermediate) to your profile
+
+## Week 3 {.unnumbered}
+
+### Day 11 {.unnumbered}
+
+Follow another 20 people, or so.
+
+- Option 1: Ask a question using the #ECRchat [hashtag](#intermediate) 
+- Option 2: Answer a question posed using the  #ECRchat [hashtag](#intermediate)
+
+### Day 12 {.unnumbered}
+
+- Option 1: Post a link to music you're listening too (e.g., Spotify)
+- Option 2: Share the link to a paper that you've recently read and give a brief summary
+
+### Day 13 {.unnumbered}
+
+- Option 1: Post a [Twitter poll](#intermediate) 
+- Option 2: Share a link to software package or took you're currently using
+
+### Day 14 {.unnumbered}
+
+- Option 1: Make a video describing the results for one of your recent papers
+- Option 2: Comment on someone else's tweet
+
+### Day 15 {.unnumbered}
+
+- Option 1: Retweet someone
+- Option 2: Retweet someone and add a quote
+
+## Week 4 {.unnumbered}
+
+### Day 16 {.unnumbered}
+
+Follow another 20 people, or so.
+
+- Option 1: Post a picture of your work in progress (e.g., a manuscript draft, a scientific figure, programming code)
+- Option 2: Post a picture of your hobby
+
+### Day 17 {.unnumbered}
+
+- Option 1: Post a link to a study that you've recently read
+- Option 2: Share a summary of one of your own studies or your project plans.
+
+### Day 18 {.unnumbered}
+
+- Option 1: Share a [meme](#composing)
+- Option 2: Share a link to a book your reading (or a podcast you're listening to)
+
+### Day 19 {.unnumbered}
+
+- Option 1: Answer a question asked using the #ECRchat (or similar) hashtag
+- Option 2: Ask a question asked using the #ECRchat (or similar) hashtag
+
+### Day 20 {.unnumbered}
+
+- Tweet that you've completed your one-month Twitter bootcamp
+

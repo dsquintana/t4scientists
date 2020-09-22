@@ -1,0 +1,12 @@
+# Acknowledgements
+
+Thanks to [\@_DaniBeck](https://twitter.com/_DaniBeck), [\@PsyBrief](https://twitter.com/PsyBrief), [\@ChelseaParlett](https://twitter.com/@ChelseaParlett),  [\@BrianPulling](https://twitter.com/BrianPulling),
+[\@dhlwilson](https://twitter.com/dhlwilson), and [\@biomechstu](https://twitter.com/biomechstu) who provided feedback on a draft version of this book. 
+
+The lightglobe icon was created by [\@dcossyle](https://twitter.com/dcossyle) and downloaded from [this page](https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/). The salt shaker icon was made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](http://www.flaticon.com/).
+
+Thanks to [\@grrrck](https://twitter.com/grrrck) for his work on the ['tweetmd' R package](https://github.com/gadenbuie/tweetrmd).
+
+
+
+I wrote and published this book using the [bookdown R package](https://bookdown.org/) and host the book on [Github](https://github.com/dsquintana/t4scientists). I first learned about these tools on Twitter, of course.
