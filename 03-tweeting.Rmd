@@ -16,7 +16,7 @@ __1. Add an image from the paper to go with the tweet.__ Have a look through the
 
 __2. Add a quote from the paper.__ Find a striking quote from the paper to include in your tweet. You can either write this as text, or take a screenshot of it and then highlight the quote, using Skitch or other software.
 
-__3. Tag your co-authors and the journal.__ Co-authored papers are a team effort, so you should acknowledge your team. In addition, this gives your followers the chance to find more people to follow. If you have a lot of co-authors, remember that you can also tag authors in images as well. This means that your co-authors will get notified of the tweet and others can see who else is involved in the resesarch.
+__3. Tag your co-authors and the journal.__ Co-authored papers are a team effort, so you should acknowledge your team. In addition, this gives your followers the chance to find more people to follow. If you have a lot of co-authors, remember that you can also tag authors in images as well. This means that your co-authors will get notified of the tweet and others can see who else is involved in the research.
 
 __4. Add your own commentary of the paper.__ If you're not including a quote, you should share *why* you think the paper is interesting. Maybe it's your first paper or it's part of a project you've been working on for a long time.
 
@@ -162,7 +162,7 @@ Let's break down this tweet:
 4. I tagged a tool that I mentioned [\@Jamovistats](https://twitter.com/Jamovistats), so that followers could easily find out more.
 5. I numbered this tweet "1/2", to signal that this is a two-part tweet. My followers will see these two tweets back-to-back, but people who see this tweet as a retweet will now know there is more than one tweet on this topic, and can then check the full conversation.
 
-Of course, if you're going to tweet about peer review you will need to keep things as anonymous as possible! Also consider that the author of the paper may follow you on Twitter or come accross your tweet if it gets retweeted.
+Of course, if you're going to tweet about peer review you will need to keep things as anonymous as possible! Also consider that the author of the paper may follow you on Twitter or come across your tweet if it gets retweeted.
 
 You can also tweet about being at the *other end* of the peer review process.
 

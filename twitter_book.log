@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.21)  22 SEP 2020 16:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.21)  22 SEP 2020 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,9 +816,8 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 [4]
 File: images/book_cover.png Graphic file (type bmp)
 <images/book_cover.png>
-File: twitter_book_files/figure-latex/unnamed-chunk-2-1.png Graphic file (type 
-bmp)
-<twitter_book_files/figure-latex/unnamed-chunk-2-1.png>
+File: twitter_book_files/figure-latex/four-ways-1.png Graphic file (type bmp)
+<twitter_book_files/figure-latex/four-ways-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -829,9 +828,9 @@ Chapter 1.
 [9
 
 ]
-File: twitter_book_files/figure-latex/unnamed-chunk-3-1.png Graphic file (type 
+File: twitter_book_files/figure-latex/unnamed-chunk-2-1.png Graphic file (type 
 bmp)
-<twitter_book_files/figure-latex/unnamed-chunk-3-1.png>
+<twitter_book_files/figure-latex/unnamed-chunk-2-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1005,100 +1004,91 @@ Underfull \vbox (badness 1874) has occurred while \output is active []
 File: twitter_book_files/figure-latex/tweet-thread1-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread1-1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[52]
 File: twitter_book_files/figure-latex/tweet-thread2-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread2-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[53]
+[52]
 File: twitter_book_files/figure-latex/tweet-thread3-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread3-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[54]
+[53]
 File: twitter_book_files/figure-latex/tweet-thread4-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread4-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[55]
+[54]
 File: twitter_book_files/figure-latex/tweet-thread5-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread5-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[56]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[57]
+[55]
 File: twitter_book_files/figure-latex/tweet-thread6-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread6-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[58]
+[56]
 File: twitter_book_files/figure-latex/tweet-thread7-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread7-1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[57]
 File: twitter_book_files/figure-latex/tweet-thread8-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-thread8-1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[59]
+[58]
 File: twitter_book_files/figure-latex/tweet-viral-1.png Graphic file (type bmp)
 
 <twitter_book_files/figure-latex/tweet-viral-1.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[59]
+Underfull \vbox (badness 1852) has occurred while \output is active []
 
 [60]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[61]
 File: images/analytics.png Graphic file (type bmp)
 <images/analytics.png>
-[62] [63]
 File: images/tweetdeck.png Graphic file (type bmp)
 <images/tweetdeck.png>
+[61]
 File: twitter_book_files/figure-latex/tweet-lab-1.png Graphic file (type bmp)
 <twitter_book_files/figure-latex/tweet-lab-1.png>
 
-Underfull \vbox (badness 2478) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[64]
+[62]
 File: twitter_book_files/figure-latex/tweet-curator-1.png Graphic file (type bm
 p)
 <twitter_book_files/figure-latex/tweet-curator-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65] [66]
+[63] [64]
 File: twitter_book_files/figure-latex/tweet-audio-1.png Graphic file (type bmp)
 
 <twitter_book_files/figure-latex/tweet-audio-1.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[67]
+[65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[68]
+[66]
 File: twitter_book_files/figure-latex/tweet-audio-feature-1.png Graphic file (t
 ype bmp)
 <twitter_book_files/figure-latex/tweet-audio-feature-1.png>
-[69] [70
+[67] [68
 
 ]
 Chapter 6.
@@ -1106,21 +1096,21 @@ File: images/mute.png Graphic file (type bmp)
 <images/mute.png>
 File: images/mute_word.png Graphic file (type bmp)
 <images/mute_word.png>
-[71] [72] [73] [74]
+[69] [70] [71] [72]
 Chapter 7.
-[75
+[73
 
-] [76]
+] [74]
 File: twitter_book_files/figure-latex/tweet-slideshow-1.png Graphic file (type 
 bmp)
 <twitter_book_files/figure-latex/tweet-slideshow-1.png>
-[77] [78] [79] [80
+[75] [76] [77] [78
 
 ]
 Chapter 8.
 No file twitter_book.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1171.
-[81]
+[79]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1171.
 (./twitter_book.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1171.
@@ -1134,11 +1124,11 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  18773 strings out of 481674
- 343747 string characters out of 5932006
+ 343710 string characters out of 5932006
  766882 words of memory out of 5000000
  35564 multiletter control sequences out of 15000+600000
  541563 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  58i,8n,118p,990b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on twitter_book.pdf (81 pages).
+Output written on twitter_book.pdf (79 pages).

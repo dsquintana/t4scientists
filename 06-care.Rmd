@@ -30,7 +30,9 @@ While not everyone has experienced harmful tweets, it is important to acknowledg
 
 You can block accounts, which means they can't follow you or interact with you. Keep in mind that if they log out of their account which was blocked, they can see your tweets (if they're public). But they can no longer interact with you.
 
-You can also report abusive or harmful tweets (or accounts) to Twitter, by following [these instructions](https://help.twitter.com/en/safety-and-security/report-abusive-behavior). 
+Another option is the so-called "soft block". Here, you block someone and then immediately unblock them. By doing this, you force them to unfollow you without making it obvious that they've been blocked (of course, they re-follow again if they notice they're not following you anymore). They will no longer see your tweets in their feed, unless other people retweet you or Twitter's algorithm decides to show them your tweet (this might happen if one of your tweets gets a high level of interaction by people that they follow).
+
+You can report abusive or harmful tweets (or accounts) to Twitter, by following [these instructions](https://help.twitter.com/en/safety-and-security/report-abusive-behavior). 
 
 Ultimately, your wellbeing is more important than potentially getting a few extra followers and retweets. Don't be shy when it comes to blocking and muting people if required.
 

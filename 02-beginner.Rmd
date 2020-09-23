@@ -47,7 +47,7 @@ Another common header image is a landscape shot of the region where you live (or
 
 Share a short description of your research area and the sorts of thing that people can expect if they follow you. Bios are limited to 160 characters, which isn't a lot. You may also consider including the twitter handle of the institution you work at in your bio. 
 
-Feel free to add emoji to give your bio a little more personality. This can give you a few extra characters that you can use. For example, you can also use emoji to highlight your research area. If you are a neuroscientists, say, you could use a brain emoji). 
+Feel free to add emoji to give your bio a little more personality. This can give you a few extra characters that you can use. For example, you can also use emoji to highlight your research area. If you are a neuroscientist, say, you could use a brain emoji. 
 
 ### The website link
 

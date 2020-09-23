@@ -81,7 +81,7 @@ If you're easily distracted, I would consider [editing your notification setting
 
 ## Lists {.unnumbered}
 
-With [Twitter lists](https://help.twitter.com/en/using-twitter/twitter-lists), you can create unique feeds that *only* contain specific groups of Twitter accounts. This is a useful way of filtering your general feed, which can get quite busy once you start following more than a couple of hundred accounts. You can also subsribe to other user's curated lists. 
+With [Twitter lists](https://help.twitter.com/en/using-twitter/twitter-lists), you can create unique feeds that *only* contain specific groups of Twitter accounts. This is a useful way of filtering your general feed, which can get quite busy once you start following more than a couple of hundred accounts. You can also subscribe to other user's curated lists. 
 
 Here are a few list suggestions if you'd like to make your own:
 

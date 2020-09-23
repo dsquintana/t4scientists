@@ -67,8 +67,8 @@ tweetrmd::include_tweet("https://twitter.com/dsquintana/status/11246665230947450
 
 ### Day 10 {.unnumbered}
 
-- Option 1: Post [a thread](#advanced) describing one of your studies or your study plans (see section 4.1), 
-- Option 1: [Pin a new tweet](#intermediate) to your profile
+- Option 1: Post [a thread](#advanced) describing one of your studies or your study plans. 
+- Option 2: [Pin a new tweet](#intermediate) to your profile
 
 ## Week 3 {.unnumbered}
 
@@ -77,7 +77,7 @@ tweetrmd::include_tweet("https://twitter.com/dsquintana/status/11246665230947450
 Follow another 20 people, or so.
 
 - Option 1: Ask a question using the #ECRchat [hashtag](#intermediate) 
-- Option 2: Answer a question posed using the  #ECRchat [hashtag](#intermediate)
+- Option 2: Answer a question posed using the #ECRchat [hashtag](#intermediate)
 
 ### Day 12 {.unnumbered}
 
